@@ -5,7 +5,7 @@
     <supportedVersions>
   <li>1.2</li>
   </supportedVersions>
-  <packageId>VAEBootsandGlovesOnSkinPatch</packageId>
+  <packageId>VAEBootsandGloves.OnSkinPatch</packageId>
   <description>
 A patch to change the Vanilla Apparel Expanded boots and gloves layers from Middle to OnSkin.
   </description>
