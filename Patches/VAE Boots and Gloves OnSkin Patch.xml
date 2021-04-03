@@ -2,7 +2,7 @@
 <Patch>
 
 <Operation Class="PatchOperationReplace">
-	<xpath>*/ThingDef[defName = "VAE_Handwear_Gloves"]/apparel/layers</xpath>
+	<xpath>/Defs/ThingDef[defName = "VAE_Handwear_Gloves"]/apparel/layers</xpath>
         	<value>
 					<layers>
 						<li>OnSkin</li>
@@ -12,7 +12,7 @@
 
 
 <Operation Class="PatchOperationReplace">
-	<xpath>*/ThingDef[defName = "VAE_Footwear_Boots"]/apparel/layers</xpath>
+	<xpath>/Defs/ThingDef[defName = "VAE_Footwear_Boots"]/apparel/layers</xpath>
         	<value>
 					<layers>
 						<li>OnSkin</li>
@@ -22,7 +22,7 @@
 
 
 <Operation Class="PatchOperationReplace">
-	<xpath>*/ThingDef[defName = "VAE_Footwear_Shoes"]/apparel/layers</xpath>
+	<xpath>/Defs/ThingDef[defName = "VAE_Footwear_Shoes"]/apparel/layers</xpath>
         	<value>
 					<layers>
 						<li>OnSkin</li>
